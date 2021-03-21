@@ -132,8 +132,8 @@
         <maven-failsafe-plugin.version>2.22.0</maven-failsafe-plugin.version>
         <maven-jar-plugin.version>3.1.2</maven-jar-plugin.version>
         <maven-javadoc-plugin.version>3.1.1</maven-javadoc-plugin.version>
-  	<sonar.projectKey>alexsandrors91_WebGoat</sonar.projectKey>
-  	<sonar.organization>alexsandrors91</sonar.organization>
+  	<sonar.projectKey>alexsandrors91/WebGoat</sonar.projectKey>
+  	<sonar.organization>alexsandrors91-1</sonar.organization>
   	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	<maven-source-plugin.version>3.1.0</maven-source-plugin.version>
         <maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>

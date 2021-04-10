@@ -136,6 +136,7 @@
         <maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>
         <revision>v8.2.0-SNAPSHOT</revision>
 	<sonar.projectKey>alexsandrors91_WebGoat</sonar.projectKey>
+	<sonar.moduleKey>${artifactId}</sonar.moduleKey>
         <sonar.organization>alexsandrors91-1</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
